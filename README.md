@@ -8,7 +8,8 @@
 - **Voice-Powered Eco Assistant**: Use your voice to navigate, search for products, and add items to your cart. Click the microphone icon in the header to get started.
 
 ---
-
+## Live Website Link
+  **https://socialcart.netlify.app/**
 ## Running Locally
 
 To run this project on your own computer, you'll need [Node.js](https://nodejs.org/) installed.
