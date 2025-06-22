@@ -9,7 +9,13 @@
 
 ---
 ## Live Website Link
-  **https://socialcart.netlify.app/**
+  - **https://socialcart.netlify.app/**
+  - login feature is not available across browsers as the prototype uses the browser database for userprofile storage.
+  - Signup with random dummy credentials as the prototype has no password restrictions.
+  - sample credentials
+  -    **Name**     : person1
+  -    **Username** : user1
+  -    **Password** : abc
 ## Running Locally
 
 To run this project on your own computer, you'll need [Node.js](https://nodejs.org/) installed.
